@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Country App</string>
+    <string name="show_date_picker">Show Date Picker</string>
+    <string name="show_time_picker">Show Time Picker</string>
+    <string name="Pilih_negara">Pilih Negara</string>
+    <string name="Pilih_provinsi">Pilih Provinsi</string>
+    <string name="show_alertdialog">Show Alert Dialog</string>
+    <string name="keluar">Keluar</string>
+    <string name="apakah_anda_yakin_ingin_keluar">Apakah anda yakin ingin keluar?</string>
+    <string name="ya">Ya</string>
+    <string name="tidak">Tidak</string>
+    <string name="show_customdialog">Show Custom Dialog</string>
+    <array name="provinces">
+        <item>Aceh</item>
+        <item>Bali</item>
+        <item>Banten</item>
+        <item>Bengkulu</item>
+        <item>Daerah Istimewa Yogyakarta</item>
+        <item>DKI Jakarta</item>
+        <item>Gorontalo</item>
+        <item>Jambi</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Timur</item>
+    </array>
+</resources>
